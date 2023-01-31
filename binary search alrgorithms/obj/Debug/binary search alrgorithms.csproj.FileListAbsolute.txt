@@ -1,0 +1,8 @@
+G:\My Drive\visual studio worksheets\binary search alrgorithms\binary search alrgorithms\bin\Debug\binary search alrgorithms.exe.config
+G:\My Drive\visual studio worksheets\binary search alrgorithms\binary search alrgorithms\bin\Debug\binary search alrgorithms.exe
+G:\My Drive\visual studio worksheets\binary search alrgorithms\binary search alrgorithms\bin\Debug\binary search alrgorithms.pdb
+G:\My Drive\visual studio worksheets\binary search alrgorithms\binary search alrgorithms\obj\Debug\binary search alrgorithms.csproj.AssemblyReference.cache
+G:\My Drive\visual studio worksheets\binary search alrgorithms\binary search alrgorithms\obj\Debug\binary search alrgorithms.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\visual studio worksheets\binary search alrgorithms\binary search alrgorithms\obj\Debug\binary search alrgorithms.csproj.CoreCompileInputs.cache
+G:\My Drive\visual studio worksheets\binary search alrgorithms\binary search alrgorithms\obj\Debug\binary search alrgorithms.exe
+G:\My Drive\visual studio worksheets\binary search alrgorithms\binary search alrgorithms\obj\Debug\binary search alrgorithms.pdb
